@@ -1,2 +1,1 @@
-# ur-a-gay
-same bro
+v1.0.0
